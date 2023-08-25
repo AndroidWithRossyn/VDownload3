@@ -1,0 +1,235 @@
+<resources>
+    <string name="app_name">V Download</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="whatsapp_app_name">Whatsapp</string>
+    <string name="insta_app_name">Instagram</string>
+    <string name="facebook_app_name">Facebook</string>
+    <string name="twitter_app_name">Twitter</string>
+    <string name="IMDB_app_name">IMDB</string>
+    <string name="sharechat_app_name">Sharechat</string>
+    <string name="pinterest_app_name">Pinterest</string>
+    <string name="linkdin_app_name">Linkdin</string>
+    <string name="reddit_app_name">Reddit</string>
+    <string name="view_stories">View Stories and Download from Private Account</string>
+    <string name="paste_link">Paste URL here…</string>
+    <string name="login">Login</string>
+    <string name="stories">Stories</string>
+    <string name="download">Download</string>
+    <string name="paste">Paste</string>
+    <string name="private_media">Private Media &amp; Stories Options</string>
+    <string name="how_to_download">How to Download</string>
+    <string name="second_how_too">2. Share with V Download</string>
+    <string name="fourth_how_too">2. Open V Download</string>
+    <string name="or_download_using_copied_link">or Download using copied link</string>
+    <string name="allow_whatsapp_access">Allow Whatsapp Access</string>
+    <string name="hintSearchMess">Search Photos</string>
+
+
+    <string name="gamecoin">GameCoin</string>
+    <string name="skip">SKIP</string>
+    <string name="online">Online</string>
+    <string name="gambling">GAMBLING</string>
+    <string name="temporibus_autem_aut_officiis_debitis_aut_rerum_necessitatibus">Temporibus autem aut\nofficiis debitis aut rerum\nnecessitatibus</string>
+    <string name="forr">For</string>
+    <string name="gamers">Gamers</string>
+    <string name="excepteur_sint_occaecat_cupidatat_non_proident_sunt_in_culpa_qui_officia">Excepteur sint occaecat\ncupidatat non proident, sunt\nin culpa qui officia</string>
+
+
+    <string name="name">ITS Digital Era</string>
+    <string name="follow">Follow</string>
+    <string name="description">My name is Nikhil Verma. I am a Tech enthusiast and Android developer. I love to code and make android apps. For further information, shoot me an email to my email id(provided below)</string>
+    <string name="email_descp">Email Id:- nv5475609@gmail.com</string>
+    <string name="downloadLocation">/WallPool/WallPool Downloads</string>
+    <string name="intro_descp">Explore from wide variety of images and search from various categories.
+        Images provided by Pixabay.com</string>
+
+    <string name="no_result">No photos found</string>
+    <string name="no_internet">No Internet Connection. Pls check your internet connection and try again by hitting the refresh button above</string>
+    <string name="no_internet_only">No Internet Connection. Pls check your internet connection and try again</string>
+    <string name="splash_descp">"All Images in this app are provided by</string>
+    <string name="pixabay_name">(Pixabay.com)</string>
+    <string name="link_name">(Click on above link to visit their website)</string>
+    <string name="dive_in">Dive In</string>
+
+    <string name="title1">Tiles</string>
+    <string name="title2">Hacker</string>
+    <string name="title3">Hitman Absolution</string>
+    <string name="title4">Dishonored</string>
+
+    <string name="hacker_wp_desc">Sequences of randomly generated bits streaming down the screen to make any hacker feel at home.</string>
+    <string name="menu_reset_to_defaults">Reset to Defaults</string>
+
+    <string name="short_name">Tiles</string>
+    <string name="straight">straight</string>
+    <string name="eight">8</string>
+    <string name="rand">random</string>
+    <string name="animSpeed">Animation Speed</string>
+    <string name="parallax">Parallax Effect    </string>
+    <string name="ok">Thanks!</string>
+    <string name="pOn">Parallax Effect enabled</string>
+    <string name="pOff">Parallax Effect disabled</string>
+    <string name="colordropdown">background color</string>
+    <string name="readdropdown">readable color fade</string>
+    <string name="set">Set as Wallpaper</string>
+    <string-array name="colors">
+        <item>RED</item>
+        <item>BLUE</item>
+        <item>GREEN</item>
+        <item>COLORFUL</item>
+        <item>PINK</item>
+        <item>AUTUMN</item>
+        <item>WINTER WONDERLAND</item>
+    </string-array>
+    <string-array name="colors_intern">
+        <item>RED</item>
+        <item>BLUE</item>
+        <item>GREEN</item>
+        <item>COLORFUL</item>
+        <item>PINK</item>
+        <item>AUTUMN</item>
+        <item>WINTER WONDERLAND</item>
+    </string-array>
+    <string name="notification">In the mood for a change? :)</string>
+    <string name="menuImp">Impressum</string>
+    <string name="menuRate">Rate App</string>
+    <string name="impr">Impressum</string>
+    <string name="feedback">Feedback To:</string>
+    <string name="rateText">If you want to, you can rate the app and give me useful feedback in the Google Play Store too :)</string>
+    <string name="rateButton">Rate App</string>
+
+    <string name="downloading">Downloading...</string>
+    <string name="getting_downloading_link">Getting Downloading Link...</string>
+
+    <string name="folder_statuses">WhatsAppStatusSaver</string>
+    <string name="image">Images</string>
+    <string name="video">Videos</string>
+    <string name="whatsapp_status">Whatsapp Status</string>
+    <string name="oops">Oops! not Status Found 😔</string>
+
+    <string name="allow">2. Click on <b> Allow </b></string>
+    <string name="getit">Get it</string>
+    <string name="close">Close</string>
+
+    <string name="appnotinstall">Application Not Found. Please Install the Application</string>
+
+    <string name="getwhatsappstatus">Get WhatsApp Status</string>
+    <string name="nextscreen">1. Next Screen -> Click on <b> Allow to access <br /> &#x20; &#x20; &#x20;this folder </b></string>
+    <string name="gb_PoppinsMedium">Poppins-Medium.ttf</string>
+    <string name="gb_download">/Download/</string>
+    <string name="gb_no_result_found">Results not found</string>
+    <string name="gb_pathSeparator">/</string>
+    <string name="gb_picker_title">Select Contacts</string>
+    <string name="gb_primary">primary</string>
+    <string name="gb_rate_me_message">If you enjoy using this app, please take a moment to rate it on Google Play. Thank you for your support!</string>
+    <string name="gb_rate_me_neutral_btn">Exit</string>
+    <string name="gb_rate_me_positive_btn">Rate App</string>
+    <string name="gb_rate_me_title">Rate Whats Web Scan App</string>
+    <string name="gb_search_hint">Search...</string>
+    <string name="gb_select_country">Select a county/region</string>
+    <string name="gb_sshow">\n 1). Open WhatsApp.\n\n 2). Watch the status you want to download.\n\n 3). Once status load completely, return back to this application.\n\n 4). You will find status hear.\n\n 5). To save the status click on Download icon.\n\n 6). Last seen status will be on top of the screen. Enjoy :)\n</string>
+    <string name="gb_status_image">Status Images</string>
+    <string name="gb_status_video">Status Videos</string>
+    <string name="gb_storage">storage</string>
+    <string name="gb_tv_no_contacts">No contacts found</string>
+    <string name="gb_tv_select_all_btn_text">Select All</string>
+    <string name="gb_tv_select_btn_text_disabled">Finish</string>
+    <string name="gb_tv_select_btn_text_enabled">Finish(%1$s)</string>
+    <string name="gb_tv_unselect_all_btn_text">Un-select All</string>
+    <string name="gb_two_dot">:</string>
+    <string name="cancel">Cancel</string>
+    <string name="gallery">Gallery</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="do_u_want_to_download_media_from_pvt">Don\'t Want to Download Media from Private Account?</string>
+    <string name="gb_user_agent_string">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36</string>
+    <string name="gb_whatsapp_host">.whatsapp.com</string>
+    <string name="gb_whatsapp_web_url">https://web.whatsapp.com</string>
+    <string name="wrong_folder">Wrong folder</string>
+    <string name="saved_to">Saved to:</string>
+    <string name="download_complete">Download Completed</string>
+    <string name="download_stories">Download from Stories</string>
+    <string name="opn_fb">1. Open Facebook</string>
+    <string name="open_sharechat">1. Open ShareChat</string>
+    <string name="cop_link_from_sharechat">1. Copy Video Link from ShareChat</string>
+    <string name="tiktok_app_name">TikTok</string>
+    <string name="tiktok_tag">Download TikTok Videos</string>
+    <string name="likee_app_name">Likee</string>
+    <string name="likee_tag">Download Likee Videos</string>
+    <string name="error_occurred">Error Occurred</string>
+    <string name="mxtakatak_app_name" translatable="false">MX TakaTak</string>
+    <string name="open_mx">1. Open MXTakaTak</string>
+    <string name="cop_link_from_mx">1. Copy Video Link from MXTakaTak</string>
+    <string name="moj_app_name" translatable="false">Moj</string>
+    <string name="open_moj">1. Open Moj</string>
+    <string name="cop_link_from_moj">1. Copy Video Link from Moj</string>
+    <string name="open_tiktok">1. Open TikTok</string>
+    <string name="open_likee">1. Open Likee</string>
+    <string name="copy_video_link_from_likee">1. Copy Video Link from Likee</string>
+    <string name="open_twitter">1. Open Twitter</string>
+    <string name="no_media_on_tweet">No Media on Tweet or Invalid Link</string>
+    <string name="downloadin_video">Downloading Video...</string>
+    <string name="roposo_app_name">Roposo</string>
+    <string name="open_roposo">1. Open Roposo</string>
+    <string name="cop_link_from_roposo">1. Copy Video Link from Roposo</string>
+
+    <string name="snack_app_name">Snack Video</string>
+    <string name="open_snack">1. Open Snack Video</string>
+    <string name="cop_link_from_snack">1. Copy Video Link from SnackVideo</string>
+    <string name="no_media_on_snackvideo">Some error occured</string>
+
+    <string name="zili_app_name">Zili Video</string>
+    <string name="open_zili">1. Open Zili Video</string>
+    <string name="cop_link_from_zili">1. Copy Video Link from Zili</string>
+
+    <string name="josh_app_name">Josh</string>
+    <string name="open_josh">1. Open Josh</string>
+    <string name="cop_link_from_josh">1. Copy Video Link from Josh</string>
+
+    <string name="chingari_app_name">Chingari</string>
+    <string name="open_chingari">1. Open Chingari</string>
+    <string name="cop_link_from_chingari">1. Copy Video Link from Chingari</string>
+
+
+    <string name="mitron_app_name">Mitron</string>
+    <string name="open_mitron">1. Open Mitron</string>
+    <string name="cop_link_from_mitron">1. Copy Video Link from Mitron</string>
+    <string name="games">Games</string>
+    <string name="do_u_want_to_dlt">Do you want to delete?</string>
+    <string name="file_deleted">File Deleted.</string>
+    <string name="opn_insta">1. Open Instagram</string>
+    <string name="no_net_conn">No Internet Connection</string>
+    <string name="enter_url">Enter Url</string>
+    <string name="enter_valid_url">Enter Valid Url</string>
+    <string name="copy_video_link_frm_fb">1. Copy Video Link from Facebook</string>
+    <string name="selected_wrong_folder">You have selected wrong folder. Please select .Statuses folder to view Whatsapp Status.</string>
+    <string name="tag_line" translatable="false">Download All Status on One Click</string>
+    <string name="gb_whatsapp_not_installed">Whtasapp not installed.</string>
+    <string name="images">Images</string>
+    <string name="videos">Videos</string>
+    <string name="gb_videos">Videos</string>
+    <string name="gb_images">Images</string>
+    <string name="gb_saved_to">Saved to:</string>
+    <string name="gb_download_complete">Download Completed</string>
+    <string name="gb_wrong_folder">Wrong folder</string>
+    <string name="gb_selected_wrong_folder">You have selected wrong folder. Please select .Statuses folder to view Whatsapp Status.</string>
+    <string name="gb_app_not_available">App Not Available.</string>
+    <string name="gb_no_app_installed">No application found to open this file.</string>
+    <string name="gb_ok">OK</string>
+    <string name="gb_share_txt">Hey view/download this image</string>
+    <string name="gb_share_image_via">Share File via...</string>
+    <string name="app_not_available">App Not Available.</string>
+    <string name="share_app_message">Download All Videos using this app. Download Now</string>
+    <string name="no_app_installed">No application found to open this file.</string>
+    <string name="whatsapp_not_installed">Whtasapp not installed.</string>
+    <string name="gb_do_u_want_to_dlt">Do you want to delete?</string>
+    <string name="gb_yes">Yes</string>
+    <string name="gb_no">No</string>
+    <string name="gb_file_deleted">File Deleted.</string>
+    <string name="allow_app_to_access_whatsapp_status_folder">Allow App to Access Whatsapp Status Folder</string>
+    <string name="download_started">Download Started</string>
+    <string name="privacy_url" translatable="false">https://techiemediaadvertising.blogspot.com/2022/06/techiemedia-inc.html</string>
+    <string name="share_txt">Hey view/download this image</string>
+    <string name="share_image_via">Share File via...</string>
+    <string name="gb_network_error">No Internet!\nMake sure you are connect to Internet</string>
+</resources>
